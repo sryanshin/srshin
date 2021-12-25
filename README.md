@@ -1,5 +1,4 @@
-# Seungryul Ryan Shin
-
+<img src = "https://user-images.githubusercontent.com/56745112/147376021-0c99d91f-0f41-4402-93e0-30311717974b.jpg" width=20% height=20%> 
 As of April 2022, I will be a postdoc researcher at Cornell University. My research interests lie in innovation, in particular, causes and implications of inventor mobility and scientific knowledge transfer. I obtained my Ph.D. and master in Engineering from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from University of California, Los Angeles.
 
 You can find my CV [here](https://www.dropbox.com/s/jiqfbqxif1i51la/ShinCVDecember2021.pdf?dl=0).
