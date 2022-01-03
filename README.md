@@ -20,24 +20,3 @@ The diffusion of scientific discoveries in government laboratories, accept with 
 Park, G., **Shin, S.R.**, & Choy, M. (2020). Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance, _Journal of Business Research_, 109, 64-75.
 
 **Shin, S.R.**, Han, J. S., Marhold, K., & Kang, J. (2017). Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A. _Journal of Knowledge Management_, 21(3), 571 – 591.
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
