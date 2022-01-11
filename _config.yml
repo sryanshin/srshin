@@ -1,8 +1,5 @@
 theme: minima
 title: Seungryul Ryan Shin
-author:
-  s.ryan.shin@gmail.com
-description:
-   Seungryul's webpage
- 
+author: false
+description: false
 show_excerpts: false
