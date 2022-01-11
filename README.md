@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://user-images.githubusercontent.com/56745112/147376021-0c99d91f-0f41-4402-93e0-30311717974b.jpg" width="100%" height="100%"></p> 
+<p align="center"><img src = "https://user-images.githubusercontent.com/56745112/147376021-0c99d91f-0f41-4402-93e0-30311717974b.jpg" width="70%" height="70%"></p> 
 
 
 As of April 2022, I will be a postdoc researcher at Cornell University. My research interests lie in innovation, in particular, causes and implications of inventor mobility and scientific knowledge transfer. I obtained my Ph.D. and master in Engineering from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from University of California, Los Angeles.
