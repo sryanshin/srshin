@@ -3,5 +3,7 @@ title: Seungryul Ryan Shin
 author:
   name: Seungryul Ryan Shin
   email: s.ryan.shin@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description:
   Seungryul's github webpage
+ 
+show_excerpts: false
