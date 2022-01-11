@@ -8,15 +8,15 @@ You can find my CV [here](https://www.dropbox.com/s/eyxn3ztz04z3zc9/ShinCVJanuar
 ## Work in Progress
 "Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows", with Benjamin Balsmeier, Lee Fleming, and Matt Marx, National Bureau of Economic Research (No. w27605)
 
-Learning through the interplay between knowledge spillover and technological alliances, with Yura Jung, Jaehyun Lee and Junseok Hwang, Revise and Resubmit, **Journal of Management Studies**
+"Learning through the interplay between knowledge spillover and technological alliances", with Yura Jung, Jaehyun Lee and Junseok Hwang, Revise and Resubmit, **Journal of Management Studies**
 
-The value of scientists, with Benjamin Balsmeier, Lee Fleming, and Matt Marx, Data analysis
+"The value of scientists", with Benjamin Balsmeier, Lee Fleming, and Matt Marx, Data analysis
 
-Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality, with Lee Fleming and Guan-Cheng Li, Developing virtual reality tool and setting environment
+"Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality", with Lee Fleming and Guan-Cheng Li, Developing virtual reality tool and setting environment
 
 
 ## Featured publications
-The diffusion of scientific discoveries in government laboratories, with Jisoo Lee, Yura Jung, and Junseok Hwang, Accept with minor revision, **Research Policy**.
+"The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, Accept with minor revision, **Research Policy**.
 
 ## Other publications
 "Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", with Gunno Park and Minkyung Choy, 2020, **Journal of Business Research**, 109, 64-75.
