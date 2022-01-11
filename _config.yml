@@ -1,2 +1,7 @@
 theme: minima
 title: Seungryul Ryan Shin
+author:
+  name: Seungryul Ryan Shin
+  email: s.ryan.shin@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Seungryul's github webpage
