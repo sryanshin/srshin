@@ -20,7 +20,7 @@ You can find my CV [here](https://www.dropbox.com/s/eyxn3ztz04z3zc9/ShinCVJanuar
 
 
 ## Featured publications
-"The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, **Research Policy**.
+"The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, forthcoming, **Research Policy**.
 
 
 ## Other publications
