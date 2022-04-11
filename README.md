@@ -2,7 +2,7 @@
 
 
 
-I am a postdoc researcher at Cornell University. My research interests lie in innovation, in particular, causes and implications of inventor mobility and scientific knowledge transfer. I obtained my Ph.D. and master in Engineering from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from University of California, Los Angeles.
+I am a postdoc researcher at Cornell University. My research interests lie in innovation, in particular, causes and implications of inventor mobility and scientific knowledge transfer. I obtained my Ph.D. and master in Engineering from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
 You can find my CV [here](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 
