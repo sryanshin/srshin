@@ -15,6 +15,8 @@ You can find my CV [here](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pd
 
 "Military threat and Government laboratories", Single-authored, Data analysis
 
+"Pre-merger review exemption and the early M&A exit of startups", Single-authored, Data analysis
+
 "Learning through the interplay between knowledge spillover and technological alliances", with Yura Jung, Jaehyun Lee and Junseok Hwang
 
 "Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality", with Lee Fleming and Guan-Cheng Li, Developing virtual reality tool and setting environment
