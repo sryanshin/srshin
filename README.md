@@ -13,7 +13,7 @@ You can find my CV [here](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pd
 
 "The value of scientists", with Benjamin Balsmeier, Lee Fleming, and Matt Marx, Data analysis
 
-"Military threat and Government laboratories", Single-authored, Data analysis
+"Military threat and government laboratories", Single-authored, Data analysis
 
 "Pre-merger review exemption and the early M&A exit of startups", Single-authored, Data analysis
 
