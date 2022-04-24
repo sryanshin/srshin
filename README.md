@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://user-images.githubusercontent.com/56745112/164953813-36d54caa-e21e-4e60-aeb7-87d505d55662.jpg" width="50%" height="50%"></p> 
+<p align="center"><img src = "https://user-images.githubusercontent.com/56745112/164953813-36d54caa-e21e-4e60-aeb7-87d505d55662.jpg" width="40%" height="40%"></p> 
 
 I am a postdoc researcher at Cornell University. My research interests lie in innovation from both aspects of management and economics. I apply and develop data analytic algorithms and causal inference techniques to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
