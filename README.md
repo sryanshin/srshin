@@ -14,7 +14,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 ## **Work in Progress**
 "Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows", with Benjamin Balsmeier, Lee Fleming, and Matt Marx, National Bureau of Economic Research [**(No. w27605)**](https://www.nber.org/papers/w27605)
 
-"The impact of scientists on commercial inventions" (Job market paper), Single-authored, Data analysis
+"Academic scientists and technological invention", Single-authored (Job market paper)
 
 “The value of scientists in regional economy”, with Benjamin Balsmeier, Lee Fleming, and Matt Marx, Data analysis
 
