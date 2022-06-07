@@ -5,10 +5,8 @@ I am a postdoc researcher at Cornell University. My research interests lie in in
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 <br/>
 <br/>
-<br/>
 ## **Featured publications**
 "The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, **Research Policy**, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
-<br/>
 <br/>
 <br/>
 ## **Working Papers**
@@ -19,9 +17,8 @@ The study examines how the influx of academic scientists shapes commercial innov
 **"Startups, Unicorns and the Local Supply of Inventors"**, with Benjamin Balsmeier, Lee Fleming, and Matt Marx [**(Link to NBER working paper)**](https://www.nber.org/papers/w27605)
 
 The study estimates the impact of the inflow of inventors on the formation and success of local venture-backed startups, strengthening causality with a shift-share instrument based on the historic spatial distribution of millions of inventor surnames in the 1940 U.S. Census. Arrival of inventors increases the number of venture-backed startups, but only in same technology fields of the newly-arrived inventors—and at the expense of other fields. Inventor arrivals boost the number of successful startups—including $1B+ “unicorn” exits—while reducing bankruptcies and “fire-sale” acquisitions. The improvement is also driven by a reallocation of venture capital away from investment in low-tech startups, especially unsuccessful ones.
-
-
-
+<br/>
+<br/>
 ## **Work in Progress**
 “The value of scientists in regional economy”, with Benjamin Balsmeier, Lee Fleming, and Matt Marx, Data analysis
 
@@ -30,9 +27,8 @@ The study estimates the impact of the inflow of inventors on the formation and s
 "Learning through the interplay between knowledge spillover and technological alliances", with Yura Jung, Jaehyun Lee and Junseok Hwang
 
 "Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality", with Lee Fleming and Guan-Cheng Li, Developing virtual reality tool and setting environment
-
-
-
+<br/>
+<br/>
 ## **Other publications**
 "Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", with Gunno Park and Minkyung Choy, 2020, **Journal of Business Research**, 109, 64-75.
 
