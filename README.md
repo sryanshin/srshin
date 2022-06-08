@@ -10,7 +10,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 <br/>
 ## **Working Papers**
-**"Academic Scientists and Corporate R&D"**, Single-authored (Job market paper)
+**"Academic Scientists and Corporate Innovation"**, Single-authored (Job market paper)
 
 The study examines how the influx of academic scientists shapes commercial innovation in the local industry from the aspect of scientific knowledge adoption. To get at the causal evidence, it uses a shift-share instrument composed of two sources of plausibly exogenous variations for the regional supply of academic scientists within the United States: international mobility of scientists and historical surname distributions within the United States. The findings suggest that the supply of academic scientists increases the use of science in patenting by local corporate inventors. Specifically, incoming academic scientists increase corporate inventors’ use of scientific knowledge that is new to the geographic region as well as that is originated from university laboratories, supporting the idea that the physical presence of academic scientists facilitates knowledge spillover to the industry. The influx of academic scientists enables corporate inventors to create science-based inventions with sets of technology recombined in unprecedented and original ways. Although it leads to a decline in the overall technological impact of science-based patents owing to the sharp increase in failed inventions, it boosts the number of highly impactful science-based patents, augmenting both extremes of corporate inventions.
 <br/><br/>
