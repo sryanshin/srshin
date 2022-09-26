@@ -5,7 +5,6 @@ I am a postdoc researcher at Cornell University. My research interests lie in in
 I am currently on the job market (2022 - 2023)
 
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
-
 <br/>
 <br/>
 ## **Featured Publications**
