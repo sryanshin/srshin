@@ -7,7 +7,7 @@ I am currently on the job market (2022 - 2023).
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 <br/>
 <br/>
-## **Featured Publications**
+## **Publications**
 "The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, *Research Policy*, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
 
 "Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", with Gunno Park and Minkyung Choy, 2020, *Journal of Business Research*, 109. [**(Link)**](https://doi.org/10.1016/j.jbusres.2019.11.068)
