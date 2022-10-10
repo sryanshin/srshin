@@ -14,7 +14,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 <br/>
 ## **Working Papers**
-**"Academic Science and Corporate Innovation"**, Single-authored (Job market paper)
+**"Academic Science and Corporate Innovation"**, Single-authored (Job market paper), Preparing for submission to *Management Science*
 
 This study examines how academic science shapes the dynamics of the production of corporate innovation. An experiment that as-good-as-randomly exposes academic science to corporate inventors reveals that exposure to academic science increases the corporate inventors’ inventions based on science as well as inventions with a novel approach of technological application. Furthermore, while exposure to academic science leads to a decline in the number of inventions with mediocre impact, it increases the number of inventions on the extremes, i.e., inventions with no future impact and inventions that are highly impactful. The findings point to the role of academic science as a map in both scientific and technological search, albeit uncertain guidance to a dead-end or promising destination. 
 <br/><br/>
