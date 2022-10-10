@@ -35,4 +35,4 @@ The study estimates the impact of the inflow of inventors on the formation and s
 <br/>
 <br/>
 ## **Other Publications**
-"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", with John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3), 571 – 591.
+"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", with John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3).
