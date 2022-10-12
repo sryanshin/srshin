@@ -15,19 +15,19 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 ## **Working Papers**
 **"Academic Science and Corporate Innovation"**
-Single-authored (Job market paper), Preparing for submission to *Management Science*
+<br/>Single-authored (Job market paper), Preparing for submission to *Management Science*
 
 This study examines how academic science shapes the dynamics of the production of corporate innovation. An experiment that as-good-as-randomly exposes academic science to corporate inventors reveals that exposure to academic science increases the corporate inventors’ inventions based on science as well as inventions with a novel approach of technological application. Furthermore, while exposure to academic science leads to a decline in the number of inventions with mediocre impact, it increases the number of inventions on the extremes, i.e., inventions with no future impact and inventions that are highly impactful. The findings point to the role of academic science as a map in both scientific and technological search, albeit uncertain guidance to a dead-end or promising destination. 
 <br/><br/>
 **"Startups, Unicorns and the Local Supply of Inventors"**
-w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Under review at *Review of Economics and Statistics*
+<br/>w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Under review at *Review of Economics and Statistics*
 
 The study estimates the impact of the inflow of inventors on the formation and success of local venture-backed startups, strengthening causality with a shift-share instrument based on the historic spatial distribution of millions of inventor surnames in the 1940 U.S. Census. Arrival of inventors increases the number of venture-backed startups, but only in same technology fields of the newly-arrived inventors—and at the expense of other fields. Inventor arrivals boost the number of successful startups—including $1B+ “unicorn” exits—while reducing bankruptcies and “fire-sale” acquisitions. The improvement is also driven by a reallocation of venture capital away from investment in low-tech startups, especially unsuccessful ones. <br/>
 [**(Link to NBER working paper)**](https://www.nber.org/papers/w27605)
-<br/><br/>
+<br/>
 
 **"Learning through the interplay between knowledge spillover and technological alliances"**
-w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang, Under review at *Strategic Management Journal*
+<br/>w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang, Under review at *Strategic Management Journal*
 
 This study examines how the learning of the originators differs depending on the spillover characteristics, captured with the concept of Spillover Knowledge Pool (SKP). It further examines how technological alliances moderate the relationship between the SKP characteristics and the originator’s follow-on innovation. An analysis of 62 firms over 10 years confirms that while technological diversity of the SKP has a positive impact on the originators’ innovation, technological overlap of the SKP relative to the originator’s knowledge has a negative impact on their innovation. Further, it finds that technological alliances enhance the positive effect of technological diversity while they exacerbate the adverse effect of technological overlap.
 <br/><br/>
