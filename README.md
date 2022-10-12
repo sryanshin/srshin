@@ -29,7 +29,7 @@ The study estimates the impact of the inflow of inventors on the formation and s
 **"Learning through the Interplay between Knowledge Spillover and Technological Alliances"**
 <br/>w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang, Under review at *Strategic Management Journal*
 
-This study examines how the learning of the originators differs depending on the spillover characteristics, captured with the concept of Spillover Knowledge Pool (SKP). It further examines how technological alliances moderate the relationship between the SKP characteristics and the originator’s follow-on innovation. An analysis of 62 firms over 10 years confirms that while technological diversity of the SKP has a positive impact on the originators’ innovation, technological overlap of the SKP relative to the originator’s knowledge has a negative impact on their innovation. Further, it finds that technological alliances enhance the positive effect of technological diversity while they exacerbate the adverse effect of technological overlap.
+This study examines how spillover knowledge shapes the learning of the originators. An analysis of 62 firms over 10 years confirms that while technologically diverse spillover of knowledge has a positive impact on the originators’ innovation, spillover to technological areas similar to the originator’s knowledge base has a negative impact on their innovation. It further finds that technological alliances of the originator amplify the impact of spillover knowledge.
 <br/><br/>
 
 ## **Work in Progress**
