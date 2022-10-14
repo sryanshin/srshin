@@ -8,9 +8,9 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 <br/>
 ## **Publications**
-"The diffusion of scientific discoveries in government laboratories", with Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, *Research Policy*, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
+"The diffusion of scientific discoveries in government laboratories", w/ Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, *Research Policy*, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
 
-"Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", with Gunno Park and Minkyung Choy, 2020, *Journal of Business Research*, 109. [**(Link)**](https://doi.org/10.1016/j.jbusres.2019.11.068)
+"Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", w/ Gunno Park and Minkyung Choy, 2020, *Journal of Business Research*, 109. [**(Link)**](https://doi.org/10.1016/j.jbusres.2019.11.068)
 <br/>
 <br/>
 ## **Working Papers**
@@ -41,4 +41,4 @@ This study examines how spillover knowledge shapes the learning of the originato
 <br/>
 <br/>
 ## **Other Publications**
-"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", with John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3).
+"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", w/ John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3).
