@@ -3,3 +3,4 @@ title: Seungryul Ryan Shin
 author: srshin@cornell.edu
 description: Updated October 2022
 # show_excerpts: false
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
