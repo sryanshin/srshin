@@ -27,7 +27,7 @@ The study estimates the impact of the inflow of inventors on the formation and s
 <br/>
 
 **"Learning through the Interplay between Knowledge Spillover and Technological Alliances"**
-<br/>w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang, Under review at *Strategic Management Journal*
+<br/>w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang
 
 This study examines how spillover knowledge shapes the learning of the originators. An analysis of 62 firms over 10 years confirms that while technologically diverse spillover of knowledge has a positive impact on the originators’ innovation, spillover to technological areas similar to the originator’s knowledge base has a negative impact on their innovation. It further finds that technological alliances of the originator amplify the impact of spillover knowledge.
 <br/><br/>
