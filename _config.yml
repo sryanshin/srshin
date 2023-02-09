@@ -1,6 +1,6 @@
 theme: minima
 title: Seungryul Ryan Shin
 author: srshin@cornell.edu
-description: Updated December 2022
+description: Updated February 2023
 # show_excerpts: false
 plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
