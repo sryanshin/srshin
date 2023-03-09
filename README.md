@@ -2,7 +2,7 @@
 
 I am a postdoc researcher at Cornell University. My research interests lie in **innovation from both aspects of management and economics**. I apply and develop **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Technology Management, Economics and Policy from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
-I am currently on the job market (2022 - 2023).
+In April 2023, I will be joining the Devision of Management Science at UNIST in Korea as an Assistant Professor.
 
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 <br/>
