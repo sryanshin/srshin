@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
 
-I am a postdoc researcher at Cornell University. My research interests lie in **innovation from both aspects of management and economics**. I apply and develop **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Technology Management, Economics and Policy from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
+I am a postdoc researcher at Cornell University. My research interests lie in **innovation from both aspects of management and economics**. I apply and develop **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
 In April 2023, I will be joining the Devision of Management Science at UNIST in Korea as an Assistant Professor.
 
