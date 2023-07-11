@@ -1,8 +1,6 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
 
-I am a postdoc researcher at Cornell University. My research interests lie in **innovation from both aspects of management and economics**. I apply and develop **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
-
-In April 2023, I will be joining the Devision of Management Science at UNIST in Korea as an Assistant Professor.
+I am an Assistant Professor at UNIST in the Devision of Management Science. My research interests center on the intersection of **Economics of Innovation and Computational Social Science**. I develop and apply **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 <br/>
@@ -24,7 +22,7 @@ The study estimates the impact of the inflow of inventors on the formation and s
 <br/>
 
 **"Academic Science and Corporate Innovation"**
-<br/>Single-authored (Job market paper), Preparing for submission to *Management Science*
+<br/>w/ Matt Marx, and Lee Fleming, Preparing for submission to *Management Science*
 
 This study examines how academic science shapes the dynamics of the production of corporate innovation. An experiment that as-good-as-randomly exposes academic science to corporate inventors reveals that exposure to academic science increases the corporate inventors’ inventions based on science as well as inventions with a novel approach of technological application. Furthermore, while exposure to academic science leads to a decline in the number of inventions with mediocre impact, it increases the number of inventions on the extremes, i.e., inventions with no future impact and inventions that are highly impactful. The findings point to the role of academic science as a map in both scientific and technological search, albeit uncertain guidance to a dead-end or promising destination. 
 <br/><br/>
@@ -35,5 +33,3 @@ This study examines how academic science shapes the dynamics of the production o
 "Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality", w/ Lee Fleming and Guan-Cheng Li, Status: developing VR tool and setting environment
 
 "Pre-merger review exemption and the early M&A exit of startups", Single-authored, Status: data analysis
-
-"Learning through the Interplay between Knowledge Spillover and Technological Alliances", w/ Yura Jung, Jaehyun Lee, Noelia Lombardo Gava, Junseok Hwang, Status: Preparing for journal submission
