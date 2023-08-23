@@ -1,6 +1,10 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
 
-I am an Assistant Professor at UNIST in the Devision of Management Science. My research interests center on the intersection of **Economics of Innovation and Computational Social Science**. I develop and apply **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
+I am an Assistant Professor at UNIST in the Division of Management Science. 
+
+Previously, I was a Post-Doctoral Associate at the Dyson School of Applied Economics and Management at Cornell University. 
+
+My research interests center on the intersection of **Economics of Innovation and Computational Social Science**. I develop and apply **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
 You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0).
 <br/>
