@@ -15,7 +15,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx
 - Revise & Resubmit at *Review of Economics and Statistics*
 - Best Conference Paper award, RCEA Future of Growth Conference
-- Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows (No. w27605). *National Bureau of Economic Research*. [**(Link to NBER working paper)**](https://www.nber.org/papers/w27605)
+- Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows (No. w27605). *National Bureau of Economic Research*. [**(Link)**](https://www.nber.org/papers/w27605)
 <br/>
 
 **Academic science and corporate innovation**
