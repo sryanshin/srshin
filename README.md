@@ -18,22 +18,24 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 <br/>
 ## **Working Papers**
-**"Startups, Unicorns and the Local Supply of Inventors"**
-<br/>w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Revise & Resubmit at *Review of Economics and Statistics*
-
-The study estimates the impact of the inflow of inventors on the formation and success of local venture-backed startups, strengthening causality with a shift-share instrument based on the historic spatial distribution of millions of inventor surnames in the 1940 U.S. Census. Arrival of inventors increases the number of venture-backed startups, but only in same technology fields of the newly-arrived inventors—and at the expense of other fields. Inventor arrivals boost the number of successful startups—including $1B+ “unicorn” exits—while reducing bankruptcies and “fire-sale” acquisitions. The improvement is also driven by a reallocation of venture capital away from investment in low-tech startups, especially unsuccessful ones. <br/>
-[**(Link to NBER working paper)**](https://www.nber.org/papers/w27605)
+**Startups, unicorns and the local supply of inventors**
+<br/>w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx
+- Revise & Resubmit at *Review of Economics and Statistics*
+- Best Conference Paper award, RCEA Future of Growth Conference
+- Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows (No. w27605). *National Bureau of Economic Research*. [**(Link to NBER working paper)**](https://www.nber.org/papers/w27605)
 <br/>
 
-**"Academic Science and Corporate Innovation"**
+**Academic science and corporate innovation**
 <br/>w/ Matt Marx, and Lee Fleming
+- Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 
-This study examines how academic science shapes the dynamics of the production of corporate innovation. An experiment that as-good-as-randomly exposes academic science to corporate inventors reveals that exposure to academic science increases the corporate inventors’ inventions based on science as well as inventions with a novel approach of technological application. Furthermore, while exposure to academic science leads to a decline in the number of inventions with mediocre impact, it increases the number of inventions on the extremes, i.e., inventions with no future impact and inventions that are highly impactful. The findings point to the role of academic science as a map in both scientific and technological search, albeit uncertain guidance to a dead-end or promising destination. 
-<br/><br/>
+**Now, I can afford to thank you! Pay and gratitude expression**
+<br/>w/ Jeeyoon Park, Yeolib Kim
 
+**Industry termination initiative and R&D organizations**
+<br/>w/ Yura Jung
+
+<br/>
+<br/>
 ## **Work in Progress**
-“The value of scientists in regional economy”, w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Status: data analysis
-
-"Visualizing and predicting technological evolution: natural language processing, machine learning, virtual reality", w/ Lee Fleming and Guan-Cheng Li, Status: developing VR tool and setting environment
-
-"Pre-merger review exemption and the early M&A exit of startups", Single-authored, Status: data analysis
+Pre-merger review exemption and the early M&A exit of startups, Single-authored, Status: data analysis
