@@ -26,6 +26,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 **Now, I can afford to thank you! Pay and gratitude expression**
 <br/>w/ Jeeyoon Park, Yeolib Kim
 <br/>
+
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
 <br/>
