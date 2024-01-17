@@ -19,12 +19,12 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 
 **Academic science and corporate innovation**
-<br/>w/ Matt Marx, and Lee Fleming
+<br/>w/ Matt Marx and Lee Fleming
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
 
 **Now, I can afford to thank you! Pay and gratitude expression**
-<br/>w/ Jeeyoon Park, Yeolib Kim
+<br/>w/ Jeeyoon Park and Yeolib Kim
 <br/>
 
 **Industry termination initiative and R&D organizations**
