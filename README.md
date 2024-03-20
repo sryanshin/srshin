@@ -44,7 +44,7 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 <br/>
 
 ## **Work in Progress**
-Capital Gains Taxs and Firm R&D, w/ Sooyeon Lim, Status: Data analysis
+Capital gains taxs and firm R&D, w/ Sooyeon Lim, Status: Data analysis
 
 National R&D supports and diffusion of university science, w/ Daehee Kang, Status: Data analysis
 
