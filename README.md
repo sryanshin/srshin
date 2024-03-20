@@ -25,10 +25,12 @@ You can find my CV [**here**](https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShi
 
 **Now, I can afford to thank you! Pay and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
+- Under Review
 <br/>
 
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
+- Scheduled to present at TPRI's Works-in-Progress Seminar on April 17th, 2024
 <br/>
 <br/>
 
