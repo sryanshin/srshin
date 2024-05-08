@@ -1,8 +1,5 @@
-<p align="center"><img src = "[https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg](https://github.com/sryanshin/srshin/assets/56745112/f0456504-9e91-4efb-853d-7a83a3da9d97)" width="40%" height="40%"></p> 
 
-
-.
-
+![Shin2](https://github.com/sryanshin/srshin/assets/56745112/1be47535-c50b-4532-b73e-3a593ff98930)
 
 
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
