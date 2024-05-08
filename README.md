@@ -1,5 +1,3 @@
-![Shin2](https://github.com/sryanshin/srshin/assets/56745112/173acee7-b463-4e2d-a68d-a547e6b079bd)
-
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
