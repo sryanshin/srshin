@@ -6,7 +6,7 @@ Previously, I was a Post-Doctoral Associate at the Dyson School of Applied Econo
 
 My research interests center on the intersection of **Economics of Innovation**, **Technology Management**, and **Data Science**. I develop and apply **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and Master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
-You can find my CV [**here**]([https://www.dropbox.com/s/1epwsyx6gmd2tnm/CV_SRShin.pdf?dl=0](https://www.dropbox.com/scl/fi/g2by1l7mo5tdkm0n0thbu/CV_SRShin.pdf?rlkey=8i8hife27fhpbzqnh7xi4nm2m&st=mrx318vy&dl=0)).
+You can find my CV [**here**](https://www.dropbox.com/scl/fi/g2by1l7mo5tdkm0n0thbu/CV_SRShin.pdf?rlkey=8i8hife27fhpbzqnh7xi4nm2m&st=rkt0ib2t&dl=0).
 
 Detailed information on my lab can be accessed [**here**](https://sites.google.com/view/unistdme). If you are interested in joining our group as an undergraduate researcher, master's or PhD student, postdoc, or data scientist, please check out our lab's website for more details or contact me directly via email (srshin [at] unist.ac.kr)
 <br/>
