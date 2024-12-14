@@ -38,7 +38,6 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
 - Under Review
-- Scheduled to present at TPRI's Works-in-Progress Seminar on April 17th, 2024
 <br/>
 <br/>
 
