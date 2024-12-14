@@ -25,13 +25,19 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
 
+**Capital Gains Tax and Firm Innovation**
+<br/>w/ Sooyeon Lim and Junseok Hwang
+- Under Review
+<br/>
+
 **Now, I can afford to thank you! Pay and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
-- Under Review
+- Revise & Resubmit at *PLOS ONE*
 <br/>
 
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
+- Under Review
 - Scheduled to present at TPRI's Works-in-Progress Seminar on April 17th, 2024
 <br/>
 <br/>
@@ -44,10 +50,3 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 "Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", w/ John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3). [**(Link)**](https://doi.org/10.1108/JKM-07-2016-0295)
 <br/>
 <br/>
-
-## **Work in Progress**
-Capital gains taxs and firm R&D, w/ Sooyeon Lim, Status: Data analysis
-
-National R&D supports and diffusion of university science, w/ Daehee Kang, Status: Data analysis
-
-Pre-merger review exemption and the early M&A exit of startups, Single-authored, Status: Data analysis
