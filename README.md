@@ -15,7 +15,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 ## **Working Papers**
 **Startups, unicorns and the local supply of inventors**
 <br/>w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx
-- Revise & Resubmit at *Review of Economics and Statistics*
+- Accepted at *Review of Economics and Statistics*
 - Best Conference Paper award, RCEA Future of Growth Conference
 - Skilled human capital and high-growth entrepreneurship: Evidence from inventor inflows (No. w27605). *National Bureau of Economic Research*. [**(Link)**](https://www.nber.org/papers/w27605)
 <br/>
