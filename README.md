@@ -1,4 +1,4 @@
-<img src="[https://github.com/사용자명/저장소명/assets/이미지파일이름](https://github.com/user-attachments/assets/3439b010-76da-4441-80a7-639150cf3b65)" style="width:70%; height:auto;">
+<img src="https://github.com/user-attachments/assets/3439b010-76da-4441-80a7-639150cf3b65" style="width:70%; height:auto;">
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
 
