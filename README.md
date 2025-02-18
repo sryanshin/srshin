@@ -15,13 +15,13 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 <br/>
 
 ## **Publications**
-"Startups, Unicorns, and the Local Influx of Inventors", w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Forthcoming in *The Review of Economics and Statistics*, 1-44. [**(Link)**](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01547/127748/Startups-Unicorns-and-the-Local-Influx-of?redirectedFrom=fulltext)
+"Startups, Unicorns, and the Local Influx of Inventors", w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Forthcoming in **The Review of Economics and Statistics**, 1-44. [**(Link)**](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01547/127748/Startups-Unicorns-and-the-Local-Influx-of?redirectedFrom=fulltext)
 
-"The diffusion of scientific discoveries in government laboratories", w/ Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, *Research Policy*, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
+"The diffusion of scientific discoveries in government laboratories", w/ Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, **Research Policy**, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
 
-"Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", w/ Gunno Park and Minkyung Choy, 2020, *Journal of Business Research*, 109. [**(Link)**](https://doi.org/10.1016/j.jbusres.2019.11.068)
+"Early mover (dis)advantages and knowledge spillover effects on blockchain startups' funding and innovation performance", w/ Gunno Park and Minkyung Choy, 2020, **Journal of Business Research**, 109. [**(Link)**](https://doi.org/10.1016/j.jbusres.2019.11.068)
 
-"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", w/ John Han, Klaus Marhold, and Jina Kang, 2017, *Journal of Knowledge Management*, 21(3). [**(Link)**](https://doi.org/10.1108/JKM-07-2016-0295)
+"Reconfiguring the firm’s core technological portfolio through open innovation: Focusing on technological M&A", w/ John Han, Klaus Marhold, and Jina Kang, 2017, **Journal of Knowledge Management**, 21(3). [**(Link)**](https://doi.org/10.1108/JKM-07-2016-0295)
 <br/>
 <br/>
 
