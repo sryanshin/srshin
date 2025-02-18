@@ -13,7 +13,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 <br/>
 
 ## **Publications**
-"Startups, Unicorns, and the Local Influx of Inventors", w/ Benjamin Balsmeier, Lee Fleming, Matt Marx, Forthcoming in *The Review of Economics and Statistics*, 1-44. [**(Link)**](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01547/127748/Startups-Unicorns-and-the-Local-Influx-of?redirectedFrom=fulltext)
+"Startups, Unicorns, and the Local Influx of Inventors", w/ Benjamin Balsmeier, Lee Fleming, and Matt Marx, Forthcoming in *The Review of Economics and Statistics*, 1-44. [**(Link)**](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01547/127748/Startups-Unicorns-and-the-Local-Influx-of?redirectedFrom=fulltext)
 
 "The diffusion of scientific discoveries in government laboratories", w/ Jisoo Lee, Yura Jung, and Junseok Hwang, 2022, *Research Policy*, 51(5). [**(Link)**](https://doi.org/10.1016/j.respol.2022.104496)
 
