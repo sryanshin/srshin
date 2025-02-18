@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3439b010-76da-4441-80a7-639150cf3b65" width="40%"">
+  <img src="https://github.com/user-attachments/assets/3439b010-76da-4441-80a7-639150cf3b65" width="40%" height="40%"">
 </div>
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
