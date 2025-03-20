@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/dfd59580-f32b-4bb9-b6cc-85bf842bfa39" width="30%" height="30%"></p> 
+<p align="center"><img src="https://github.com/user-attachments/assets/dfd59580-f32b-4bb9-b6cc-85bf842bfa39" width="40%" height="40%"></p> 
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
 
