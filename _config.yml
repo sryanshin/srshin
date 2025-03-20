@@ -1,6 +1,6 @@
 theme: minima
 title: Seungryul Ryan Shin
 author: srshin@unist.ac.kr
-description: Updated February 2025
+description: Updated March 2025
 # show_excerpts: false
 plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
