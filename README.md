@@ -1,6 +1,6 @@
 <p align="center"><img src = "https://user-images.githubusercontent.com/56745112/227010600-f453c2c0-81f8-445a-b739-f8028a67e0cd.jpg" width="40%" height="40%"></p> 
 
-<img src="https://github.com/user-attachments/assets/dfd59580-f32b-4bb9-b6cc-85bf842bfa39" width="40%" height="40%">
+<p align="center"><img src="https://github.com/user-attachments/assets/dfd59580-f32b-4bb9-b6cc-85bf842bfa39" width="40%" height="40%"></p> 
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
 
