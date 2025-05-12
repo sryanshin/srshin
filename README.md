@@ -31,7 +31,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
 
-**Now, I can afford to thank you! Pay and gratitude expression**
+**Financial stress and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
 - Revise & Resubmit at *PLOS ONE*
 <br/>
