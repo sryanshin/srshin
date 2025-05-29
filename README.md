@@ -41,7 +41,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Under Review
 <br/>
 
-**Capital Gains Tax and Firm Innovation**
+**Capital gains tax and firm innovation**
 <br/>w/ Sooyeon Lim and Junseok Hwang
 - Under Review
 <br/>
