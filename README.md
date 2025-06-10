@@ -31,18 +31,40 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
 
-**Financial stress and gratitude expression**
-<br/>w/ Jeeyoon Park and Yeolib Kim
-- Under Review
-<br/>
-
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
 - Under Review
+- Presented at Boston University TPRI Seminar; Academy of Management Annual Conference 2024
 <br/>
 
 **Capital gains tax and firm innovation**
 <br/>w/ Sooyeon Lim and Junseok Hwang
 - Under Review
+- Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025 (scheduled); IAMOT (scheduled); Academy of Management Annual Conference 2025 (scheduled)
+<br/>
+
+**Financial stress and gratitude expression**
+<br/>w/ Jeeyoon Park and Yeolib Kim
+- Under Review
+- Will be presented at Academy of Management Annual Conference 2025 (scheduled)
+<br/>
+<br/>
+
+## **Works in Progress**
+**Pre-merger review exemption and the early M&A exit of startups**
+<br/>w/ Kyung-Baek Toni Min
+
+**The transition from science to technology: An analysis of patent-paper pairs**
+<br/>w/ Sungwoo Jang, Dawoon Jeong, Seolmin Yang
+
+**Work time limit and firm innovation: Evidence from Korea**
+<br/>w/ Yeroo Park
+
+**Who to collaborate with for successful technology application of scientific discoveries?**
+<br/>w/ Sungwoo Jang, Yeroo Park, Kyung-Baek Toni Min
+
+**Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**
+<br/>w/ Namwoo Kwon
+
 <br/>
 <br/>
