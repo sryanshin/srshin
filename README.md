@@ -33,7 +33,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 
 **Financial stress and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
-- Revise & Resubmit at *PLOS ONE*
+- Under Review
 <br/>
 
 **Industry termination initiative and R&D organizations**
