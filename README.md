@@ -48,6 +48,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Under Review
 - Will be presented at Academy of Management Annual Conference 2025 (scheduled)
 <br/>
+<br/>
 
 ## **Works in Progress**
 **Pre-merger review exemption and the early M&A exit of startups**
@@ -65,5 +66,4 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 **Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**
 <br/>w/ Namwoo Kwon
 
-<br/>
 <br/>
