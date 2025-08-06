@@ -46,7 +46,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 **Financial stress and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
 - Under Review
-- Will be presented at Academy of Management Annual Conference 2025 (scheduled)
+- Will be presented at Academy of Management Annual Conference 2025
 <br/>
 <br/>
 
