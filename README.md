@@ -40,7 +40,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 **Capital gains tax and firm innovation**
 <br/>w/ Sooyeon Lim and Junseok Hwang
 - Under Review
-- Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025 (scheduled); IAMOT (scheduled); Academy of Management Annual Conference 2025 (scheduled)
+- Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025; IAMOT; Academy of Management Annual Conference 2025
 <br/>
 
 **Financial stress and gratitude expression**
