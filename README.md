@@ -27,7 +27,7 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 
 ## **Working Papers**
 **Academic science and corporate innovation**
-<br/>w/ Matt Marx and Lee Fleming
+<br/>w/ Lee Fleming
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
 
