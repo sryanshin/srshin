@@ -52,8 +52,8 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 <br/>
 
 ## **Works in Progress**
-**Pre-merger review exemption and the early M&A exit of startups**
-<br/>w/ Kyung-Baek Toni Min
+**Pre-merger review and startups**
+<br/>w/ Kyung-Baek Toni Min, J. Daniel Kim
 
 **The transition from science to technology: An analysis of patent-paper pairs**
 <br/>w/ Sungwoo Jang, Dawoon Jeong, Seolmin Yang
