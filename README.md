@@ -71,7 +71,7 @@ w/ Yeroo Park
 - Will be presented at R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
 
 **Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**  
-w/ Namwoo Kwon
+w/ Namwoo Kwon, Yeroo Park
 
 **Paper to patent translation**  
 w/ Namwoo Kwon
