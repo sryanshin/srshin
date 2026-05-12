@@ -57,7 +57,6 @@ w/ Sungwoo Jang, Dawoon Jeong, and Seolmin Yang
 - Presented at WISS Academy 2026
 - Will be presented at Academy of Management Annual Conference 2026; R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
 
-
 ## **Works in Progress**
 
 **Exit prospects and startup strategy**  
