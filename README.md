@@ -4,8 +4,6 @@
 
 I am an Assistant Professor at UNIST in the Division of Management Science. 
 
-Previously, I was a Post-Doctoral Associate at the Dyson School of Applied Economics and Management at Cornell University. 
-
 My research interests center on the intersection of **Economics of Innovation**, **Technology Management**, and **Data Science**. I develop and apply **big data analytic algorithms** and **causal inference techniques** to explore how the innovation ecosystem is shaped by firms, individuals, and government policies. I obtained my Ph.D. and Master in Engineering (Technology Management, Economics and Policy) from Seoul National University. Before, I obtained my B.S. in Mechanical Engineering from UCLA.
 
 You can find my CV [**here**](https://www.dropbox.com/scl/fi/g2by1l7mo5tdkm0n0thbu/CV_SRShin.pdf?rlkey=8i8hife27fhpbzqnh7xi4nm2m&st=rkt0ib2t&dl=0).
@@ -31,40 +29,49 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 - Under Review
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
 <br/>
-
 **Industry termination initiative and R&D organizations**
 <br/>w/ Yura Jung
 - Under Review
 - Presented at Boston University TPRI Seminar; Academy of Management Annual Conference 2024
 <br/>
-
 **Capital gains tax and firm innovation**
 <br/>w/ Sooyeon Lim and Junseok Hwang
 - Under Review
-- Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025; IAMOT; Academy of Management Annual Conference 2025
+- Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025; IAMOT; Academy of Management Annual Conference 2025; Hitotsubashi University IIR Innovation Research Workshop; KISTI
 <br/>
-
 **Financial stress and gratitude expression**
 <br/>w/ Jeeyoon Park and Yeolib Kim
 - Under Review
-- Will be presented at Academy of Management Annual Conference 2025
 <br/>
-<br/>
-
-## **Works in Progress**
-**Pre-merger review and startups**
-<br/>w/ Kyung-Baek Toni Min, J. Daniel Kim
-
-**The transition from science to technology: An analysis of patent-paper pairs**
-<br/>w/ Sungwoo Jang, Dawoon Jeong, Seolmin Yang
-
-**Work time limit and firm innovation: Evidence from Korea**
-<br/>w/ Yeroo Park
-
 **Who to collaborate with for successful technology application of scientific discoveries?**
-<br/>w/ Sungwoo Jang, Yeroo Park, Kyung-Baek Toni Min
-
+<br/>w/ Sungwoo Jang, Yeroo Park, and Kyungbaek Toni Min
+- Will be presented at Academy of Management Annual Conference 2026
+<br/>
+**Entrant-originated knowledge spillovers to industry incumbents: Evidence from autonomous industry**
+<br/>w/ Youngchoon Kim and Kyungbaek Toni Min
+- Under Review
+<br/>
+**The translation from science to technology**
+<br/>w/ Sungwoo Jang, Dawoon Jeong, and Seolmin Yang
+- Under Review
+- Presented at WISS Academy 2026
+- Will be presented at Academy of Management Annual Conference 2026; R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
+<br/>
+<br/>
+## **Works in Progress**
+**Exit prospects and startup strategy**
+<br/>w/ Kyungbaek Toni Min and J. Daniel Kim
+- Presented at KAIST Business School
+- Will be presented at BSE Summer Forum 2026
+<br/>
+**Work time limit and R&D team composition: Evidence from Korea**
+<br/>w/ Yeroo Park
+- Presented at WISS Academy 2026; Toss Insight Seminar
+- Will be presented at R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
+<br/>
 **Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**
+<br/>w/ Namwoo Kwon, Yeroo Park
+<br/>
+**Paper to patent translation**
 <br/>w/ Namwoo Kwon
-
 <br/>
