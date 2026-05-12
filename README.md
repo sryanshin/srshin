@@ -24,54 +24,54 @@ Detailed information on my lab can be accessed [**here**](https://sites.google.c
 <br/>
 
 ## **Working Papers**
+
 **Academic science and corporate innovation**
-<br/>
 - Under Review
 - Presented at NBER productivity seminar; Max Planck Institute for Innovation and Competition RISE5 workshop; Harvard Kennedy School; Wharton Corporate Strategy and Innovation Conference 2023
-<br/>
-**Industry termination initiative and R&D organizations**
-<br/>w/ Yura Jung
+
+**Industry termination initiative and R&D organizations**  
+w/ Yura Jung
 - Under Review
 - Presented at Boston University TPRI Seminar; Academy of Management Annual Conference 2024
-<br/>
-**Capital gains tax and firm innovation**
-<br/>w/ Sooyeon Lim and Junseok Hwang
+
+**Capital gains tax and firm innovation**  
+w/ Sooyeon Lim and Junseok Hwang
 - Under Review
 - Presented at Boston University TPRI Seminar; KAIST STP; KDI School of Public Policy and Management; Atlanta Conference on Science and Innovation Policy; PDW in Korea 2025; IAMOT; Academy of Management Annual Conference 2025; Hitotsubashi University IIR Innovation Research Workshop; KISTI
-<br/>
-**Financial stress and gratitude expression**
-<br/>w/ Jeeyoon Park and Yeolib Kim
+
+**Financial stress and gratitude expression**  
+w/ Jeeyoon Park and Yeolib Kim
 - Under Review
-<br/>
-**Who to collaborate with for successful technology application of scientific discoveries?**
-<br/>w/ Sungwoo Jang, Yeroo Park, and Kyungbaek Toni Min
+
+**Who to collaborate with for successful technology application of scientific discoveries?**  
+w/ Sungwoo Jang, Yeroo Park, and Kyungbaek Toni Min
 - Will be presented at Academy of Management Annual Conference 2026
-<br/>
-**Entrant-originated knowledge spillovers to industry incumbents: Evidence from autonomous industry**
-<br/>w/ Youngchoon Kim and Kyungbaek Toni Min
+
+**Entrant-originated knowledge spillovers to industry incumbents: Evidence from autonomous industry**  
+w/ Youngchoon Kim and Kyungbaek Toni Min
 - Under Review
-<br/>
-**The translation from science to technology**
-<br/>w/ Sungwoo Jang, Dawoon Jeong, and Seolmin Yang
+
+**The translation from science to technology**  
+w/ Sungwoo Jang, Dawoon Jeong, and Seolmin Yang
 - Under Review
 - Presented at WISS Academy 2026
 - Will be presented at Academy of Management Annual Conference 2026; R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
-<br/>
-<br/>
+
+
 ## **Works in Progress**
-**Exit prospects and startup strategy**
-<br/>w/ Kyungbaek Toni Min and J. Daniel Kim
+
+**Exit prospects and startup strategy**  
+w/ Kyungbaek Toni Min and J. Daniel Kim
 - Presented at KAIST Business School
 - Will be presented at BSE Summer Forum 2026
-<br/>
-**Work time limit and R&D team composition: Evidence from Korea**
-<br/>w/ Yeroo Park
+
+**Work time limit and R&D team composition: Evidence from Korea**  
+w/ Yeroo Park
 - Presented at WISS Academy 2026; Toss Insight Seminar
 - Will be presented at R&D Management Workshop 2026; 2026 Daejeon Conference on Science and Innovation Policy
-<br/>
-**Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**
-<br/>w/ Namwoo Kwon, Yeroo Park
-<br/>
-**Paper to patent translation**
-<br/>w/ Namwoo Kwon
-<br/>
+
+**Linking science to technology: Discovering author-level opportunities via heterogeneous knowledge graph**  
+w/ Namwoo Kwon
+
+**Paper to patent translation**  
+w/ Namwoo Kwon
