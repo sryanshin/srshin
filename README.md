@@ -8,7 +8,9 @@ My research interests center on the intersection of **Economics of Innovation**,
 
 You can find my CV [**here**](https://www.dropbox.com/scl/fi/g2by1l7mo5tdkm0n0thbu/CV_SRShin.pdf?rlkey=8i8hife27fhpbzqnh7xi4nm2m&st=rkt0ib2t&dl=0).
 
-Detailed information on my lab can be accessed [**here**](https://sites.google.com/view/unistdme). If you are interested in joining our group as an undergraduate researcher, master's or PhD student, postdoc, or data scientist, please check out our lab's website for more details or contact me directly via email (srshin [at] unist.ac.kr)
+Detailed information on my lab can be accessed [**here**](https://sites.google.com/view/unistdme). 
+
+If you are interested in joining our group as an undergraduate researcher, master's or PhD student, postdoc, or data scientist, please check out our lab's website for more details or contact me directly via email (srshin [at] unist.ac.kr)
 <br/>
 <br/>
 
