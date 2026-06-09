@@ -1,3 +1,6 @@
-.site-nav .menu-icon {
+.site-nav .nav-trigger,
+.site-nav label[for="nav-trigger"],
+.site-nav .menu-icon,
+.site-nav .trigger {
     display: none !important;
 }
